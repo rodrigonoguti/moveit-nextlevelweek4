@@ -8,4 +8,4 @@ Local run steps:
 - Run: yarn dev
 - Enjoy!
 
-Demo version: [moveit-eight-lemon.vercel.app/](https://moveit-eight-lemon.vercel.app/)
+Demo version: [https://moveit-rodrigonoguti.vercel.app/](https://moveit-rodrigonoguti.vercel.app/)
