@@ -7,3 +7,5 @@ Local run steps:
 - Run: yarn install
 - Run: yarn dev
 - Enjoy!
+
+Demo version: [moveit-eight-lemon.vercel.app/](https://moveit-eight-lemon.vercel.app/)
